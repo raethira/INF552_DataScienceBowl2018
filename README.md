@@ -1,7 +1,7 @@
 # [Data Science Bowl 2018](https://www.kaggle.com/c/data-science-bowl-2018) - Booz Allen Hamilton
 Course project for USC INF 552 Machine Learning for Data Informatics
 
-## Built with 
+## Implementation details
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
 * [Nvidia docker](https://github.com/NVIDIA/nvidia-docker)
 
