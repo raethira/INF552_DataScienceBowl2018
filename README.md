@@ -11,4 +11,4 @@ Course project for USC INF 552 Machine Learning for Data Informatics
 * [**Dubem Nwoji**]()
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/vishalseshagiri/INF552_DataScienceBowl2018/blob/master/LICENSE.md) file for details
